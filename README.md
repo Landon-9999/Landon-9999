@@ -23,13 +23,13 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="60" alt="redhat logo"  />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="50" alt="redhat logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="60" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="50" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="60" alt="podman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="50" alt="podman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
   <img width="12" />
@@ -75,13 +75,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="60" alt="firefox logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="50" alt="firefox logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="60" alt="gimp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="55" alt="gimp logo"  />
 </div>
 
 ###
-###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=landon-9999&theme=tokyonight&hide_rank=true&show_icons=true&count_private=true&locale=en" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=landon-9999&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
