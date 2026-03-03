@@ -9,9 +9,11 @@
   <a href="https://ko-fi.com/landon_9999" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
+  <!--
   <a href="https://gamehostbros.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Game%20Host%20Bros&label=&color=4E46E6&logoColor=violet&labelColor=violet&style=for-the-badge" height="25" alt="ko-fi logo"  />
   </a>
+  -->
 </div>
 
 ###
@@ -78,12 +80,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="50" alt="firefox logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="55" alt="gimp logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=landon-9999&theme=tokyonight&hide_rank=true&show_icons=true&count_private=true&locale=en" height="150" alt="stats graph"  />
 </div>
 
 ###
